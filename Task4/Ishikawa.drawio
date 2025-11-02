@@ -1,0 +1,91 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.2.8">
+  <diagram name="Страница — 1" id="gvEmC6h7EwLNfSySCVJT">
+    <mxGraphModel dx="2126" dy="784" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="LUOcgXXvY8CWXl6lu880-1" value="Узкие мест&lt;div&gt;а миграции системы&lt;/div&gt;&lt;div&gt;&amp;nbsp;Медикаменты&lt;/div&gt;" style="triangle;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
+          <mxGeometry x="670" y="220" width="140" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="LUOcgXXvY8CWXl6lu880-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
+          <mxGeometry x="20" y="300" width="650" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="LUOcgXXvY8CWXl6lu880-6" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=60;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="8.53" y="192.96" width="230" height="7.63" as="geometry" />
+        </mxCell>
+        <mxCell id="LUOcgXXvY8CWXl6lu880-7" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Инфраструктура&lt;/font&gt;&lt;/b&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-75" y="70" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LUOcgXXvY8CWXl6lu880-8" value="Неправильная конфигурация сети" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-150" y="110" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LUOcgXXvY8CWXl6lu880-9" value="Недостаточная производительность &#xa;серверов для новой нагрузки." style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="140" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LUOcgXXvY8CWXl6lu880-11" value="Отсутствие должной сетевой изоляции и сегментации" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="180" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LUOcgXXvY8CWXl6lu880-16" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=-230;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
+          <mxGeometry x="-9.996113084562351" y="399.9954214352104" width="230" height="7.63" as="geometry" />
+        </mxCell>
+        <mxCell id="LUOcgXXvY8CWXl6lu880-17" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;ПО&lt;/font&gt;&lt;/b&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="480" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LUOcgXXvY8CWXl6lu880-19" value="Сложность отладки и трассировки запросов &#xa;в распределенной системе." style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="330" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LUOcgXXvY8CWXl6lu880-20" value="Потенциальные ошибки при&#xa; настройке CI/CD пайплайнов" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="390" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LUOcgXXvY8CWXl6lu880-22" value="Раздувание&quot; микросервисов, нарушение &#xa;принципа единственной ответственности" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-190" y="430" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LUOcgXXvY8CWXl6lu880-24" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=60;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="270.0038869154376" y="192.95542143521044" width="230" height="7.63" as="geometry" />
+        </mxCell>
+        <mxCell id="LUOcgXXvY8CWXl6lu880-25" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Интеграция&lt;/font&gt;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="70" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LUOcgXXvY8CWXl6lu880-27" value="Неполная или некорректная миграция скрытой бизнес-логики из 1С" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="120" y="100" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LUOcgXXvY8CWXl6lu880-28" value="Потенциальные ошибки в асинхронных&#xa; взаимодействиях между сервисами." style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="135" y="150" width="230" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LUOcgXXvY8CWXl6lu880-29" value="Сложности с интеграцией с устаревшими&#xa; системами (старые ККМ, внешние лаборатории)." style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="220" y="200" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LUOcgXXvY8CWXl6lu880-31" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=-230;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
+          <mxGeometry x="250.00303466445095" y="399.9923456896366" width="230" height="7.63" as="geometry" />
+        </mxCell>
+        <mxCell id="LUOcgXXvY8CWXl6lu880-32" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Персонал&lt;/font&gt;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="205" y="480" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LUOcgXXvY8CWXl6lu880-34" value="Недостаток опыта в&#xa; микросервисной архитектуре" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="220" y="320" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LUOcgXXvY8CWXl6lu880-36" value="Сопротивление изменениям со&#xa; стороны сотрудников, привыкших к 1С" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="150" y="359.99" width="225" height="50.01" as="geometry" />
+        </mxCell>
+        <mxCell id="LUOcgXXvY8CWXl6lu880-38" value="Нехватка специалистов для круглосуточной поддержки новой инфраструктуры" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="135" y="420" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LUOcgXXvY8CWXl6lu880-39" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=60;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="1">
+          <mxGeometry x="490.00388691543765" y="192.95542143521044" width="230" height="7.63" as="geometry" />
+        </mxCell>
+        <mxCell id="LUOcgXXvY8CWXl6lu880-40" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Процессы&lt;/font&gt;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="70" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LUOcgXXvY8CWXl6lu880-42" value="Отсутствие четкой, пошаговой стратегии миграции данных и сервисов" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="375" y="105" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LUOcgXXvY8CWXl6lu880-43" value="Недостаточное внимание к тестированию и контролю качества." style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="410" y="160" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LUOcgXXvY8CWXl6lu880-44" value="Отсутствие плана по обучению и поддержке конечных пользователей." style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="440" y="230" width="180" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

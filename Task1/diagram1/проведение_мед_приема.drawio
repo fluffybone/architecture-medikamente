@@ -1,0 +1,58 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="27.2.0">
+  <diagram name="Страница — 1" id="HY6ZtToK1N0hQw16T2j4">
+    <mxGraphModel dx="1234" dy="745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Sm7w0clN4eQ9ZQlGRAaS-15" value="&lt;b&gt;Journal-Doctor-FIO.xlsx&lt;/b&gt; (на File Server)" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="90" y="200" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Sm7w0clN4eQ9ZQlGRAaS-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Sm7w0clN4eQ9ZQlGRAaS-19" target="Sm7w0clN4eQ9ZQlGRAaS-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Sm7w0clN4eQ9ZQlGRAaS-21" value="Чтение&amp;nbsp;&lt;div&gt;данных о записи&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Sm7w0clN4eQ9ZQlGRAaS-20">
+          <mxGeometry x="0.3158" y="-1" relative="1" as="geometry">
+            <mxPoint x="21" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Sm7w0clN4eQ9ZQlGRAaS-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="Sm7w0clN4eQ9ZQlGRAaS-19" target="Sm7w0clN4eQ9ZQlGRAaS-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Sm7w0clN4eQ9ZQlGRAaS-27" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;fkGroteskNeue, ui-sans-serif, system-ui, -apple-system, system-ui, Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji, Hiragino Sans, PingFang SC, Apple SD Gothic Neo, Yu Gothic, Microsoft YaHei, Microsoft JhengHei, Meiryo&quot; color=&quot;oklch(0.3039 0.04 213.68)&quot;&gt;&lt;span style=&quot;letter-spacing: 0.08px; text-wrap-mode: wrap; background-color: oklch(0.9902 0.004 106.47);&quot;&gt;Создание/обновление&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;fkGroteskNeue, ui-sans-serif, system-ui, -apple-system, system-ui, Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji, Hiragino Sans, PingFang SC, Apple SD Gothic Neo, Yu Gothic, Microsoft YaHei, Microsoft JhengHei, Meiryo&quot; color=&quot;oklch(0.3039 0.04 213.68)&quot;&gt;&lt;span style=&quot;letter-spacing: 0.08px; text-wrap-mode: wrap; background-color: oklch(0.9902 0.004 106.47);&quot;&gt;&amp;nbsp;медицинской&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;fkGroteskNeue, ui-sans-serif, system-ui, -apple-system, system-ui, Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji, Hiragino Sans, PingFang SC, Apple SD Gothic Neo, Yu Gothic, Microsoft YaHei, Microsoft JhengHei, Meiryo&quot; color=&quot;oklch(0.3039 0.04 213.68)&quot;&gt;&lt;span style=&quot;letter-spacing: 0.08px; text-wrap-mode: wrap; background-color: oklch(0.9902 0.004 106.47);&quot;&gt;документации&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Sm7w0clN4eQ9ZQlGRAaS-26">
+          <mxGeometry x="-0.0952" y="3" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Sm7w0clN4eQ9ZQlGRAaS-19" value="Врач" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="354" y="205" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Sm7w0clN4eQ9ZQlGRAaS-23" value="Ф.И.О. пациента, время" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="260" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Sm7w0clN4eQ9ZQlGRAaS-25" value="&lt;b&gt;Файл (PDF, JPG)&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="630" y="200" width="80" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="Sm7w0clN4eQ9ZQlGRAaS-28" value="Диагноз, анализы, заключение" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="270" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Sm7w0clN4eQ9ZQlGRAaS-30" value="Папка пациента на File Server" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="349" y="390" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Sm7w0clN4eQ9ZQlGRAaS-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Sm7w0clN4eQ9ZQlGRAaS-19" target="Sm7w0clN4eQ9ZQlGRAaS-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Sm7w0clN4eQ9ZQlGRAaS-33" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Сохранение файла&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Sm7w0clN4eQ9ZQlGRAaS-31">
+          <mxGeometry x="-0.136" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Sm7w0clN4eQ9ZQlGRAaS-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Sm7w0clN4eQ9ZQlGRAaS-25" target="Sm7w0clN4eQ9ZQlGRAaS-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Sm7w0clN4eQ9ZQlGRAaS-35" value="Медицинская документация" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="340" width="140" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
